@@ -1,24 +1,24 @@
-###Mentor: Aaron Leo
+### Mentor: Aaron Leo
 
-#Team Members:
+# Team Members:
   -
   -
   -
   -
   
-#Slack Group:
+# Slack Group:
   - 
   
-#Meeting times. what day works best?:
+# Meeting times. what day works best?:
   -
 
-#Use SCRUM methadology for meetings:
+# Use SCRUM methadology for meetings:
   - What have you accomplished since the last time we met?
   - What do you plan to accomplish?
   - Are there any roadblocks, bugs impacting your work?
   - Is there anything specifically you need from me?
   
-#Calendar of Events:
+# Calendar of Events:
 
 | Week   | Date       | Goals                                                             |
 |--------|------------|-------------------------------------------------------------------|
