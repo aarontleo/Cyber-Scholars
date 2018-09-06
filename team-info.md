@@ -19,6 +19,7 @@ Use SCRUM methadology for meetings:
   - Is there anything specifically you need from me?
   
 Calendar of Events:
+
 | Week   | Date       | Goals                                                             |
 |--------|------------|-------------------------------------------------------------------|
 | Week 1 | 9/6 - 9/13 | Attend Kickoff, Setup RasbPI, Pick technologies, Brainstorm Ideas | 
