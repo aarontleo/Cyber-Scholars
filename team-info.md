@@ -1,4 +1,4 @@
-### Mentor: Aaron Leo
+
 
 # Team Members:
   - Mentor: Aaron Leo
