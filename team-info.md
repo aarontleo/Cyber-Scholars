@@ -1,17 +1,19 @@
 
 
 # Team Members:
-  - Mentor: Aaron Leo
-  -
-  -
-  -
-  -
+  - Mentor: Aaron L
+  - Mentor: Jacob H
+  - Ezekiel A
+  - Faith M
+  - Jenna
+  - Zachary N
+  - Milan
   
 # Slack Group:
-  - 
+  - returnvoid.slack.com
   
-# Meeting times. what day works best?:
-  -
+# Meeting time (tenatively)
+  - Thursday: ~ 12-12:45 -- Should last ~20 mins
 
 # Use SCRUM methadology for meetings:
   - What have you accomplished since the last time we met?
