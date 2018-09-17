@@ -35,7 +35,7 @@ Tutorial on how to create and push changes to this GitHub repository:
     
 - Add all the files you have saved to be commited (AKA Staging):
 
-   **git add ***
+   **git add .**
 - Commit those files so they are "saved" to your repository, you should add a descriptive message about the changes you made:
     
    **git commit -m "insert descriptive message about changes here"**
