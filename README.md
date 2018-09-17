@@ -5,7 +5,8 @@ Information and Code relating to the NG UMBC CyberChallenge
 Tutorial on how to create and push changes to this GitHub repository:
 
 ### First, fork the original Cyber-Scholars repository to your GitHub account and create a local copy:
-- In the top right corner of the repository page click: 
+- In the top right corner of the repository page click:
+
     **"Fork"**
     *This creates a copy of the Cyber-Scholars repository in your account*
 - Inside of Linux, on the command-line type: 
