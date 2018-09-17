@@ -8,6 +8,7 @@ Tutorial on how to create and push changes to this GitHub repository:
 - In the top right corner of the repository page click:
 
     **"Fork"**
+    
     *This creates a copy of the Cyber-Scholars repository in your account*
 - Inside of Linux, on the command-line type: 
     **git clone git@github.com[your-github-username]/Cyber-Scholars**
