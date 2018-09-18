@@ -1,9 +1,9 @@
-# Cyber-Scholars
-Information and Code relating to the NG UMBC CyberChallenge 
+#Zachary Neuhaus
 
-## Git / GitHub Tutorial
-Tutorial on how to create and push changes to this GitHub repository:
+We are using a Raspberry Pi partnered with a bunch of various Vulnerablity Scanners and taking the data from those scans and making an intutive graphic to display to a user what devices are on there network and if anythem are vulnerable. We decided to build this device because everything now in your homes are a smart device or (IOT) which connects out to internet. If you don't know if a device is vulnerable in your home then maybe you are letting wonderful hackers or criminals into your home network.  
 
+
+=======
 ### First, fork the original Cyber-Scholars repository to your GitHub account and create a local copy:
 - In the top right corner of the repository page click:
 
@@ -52,3 +52,4 @@ Tutorial on how to create and push changes to this GitHub repository:
    **Create Pull Request**
     
    *Give it a title, infomration about the changes you made and click **Create Pull Request** again*
+
